@@ -1,4 +1,4 @@
-#include "k1ava.dtsi"
+#include "tbkmini.dtsi"
 
 &kscan0 {
     col-gpios
